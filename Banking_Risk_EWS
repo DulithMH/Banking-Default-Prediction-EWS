@@ -1,0 +1,8 @@
+Banking_Risk_EWS/
+│
+├── app.py                   # The Gradio Interface code (Step 3 above)
+├── model_training.ipynb     # The full analysis (Data Gen + Training + Evaluation)
+├── requirements.txt         # List of libraries used (pandas, xgboost, etc.)
+├── README.md                # The project report (I have written this below)
+└── data/
+    └── (Optional) dirty_banking_data.csv  # Only if you want to share the dummy data
